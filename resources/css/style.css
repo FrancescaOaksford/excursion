@@ -16,3 +16,8 @@ a{
 	color: aquamarine;
 	font-size: 1rem;
 }
+
+p{
+	font-size: 1.3125px;
+	color: gray;
+}
