@@ -7,7 +7,7 @@ body{
 	color: #fff;
 	font-family: verdana;
 	font-weight: 400;
-	display: flex;
+	display: block;
 }
 
 h1{
@@ -27,4 +27,16 @@ p{
 
 img{
 	display: block;
+}
+
+.hidden-places{
+	display: flex;
+}
+
+.travel-guide{
+	display: flex;
+}
+
+.coming-soon{
+	display: flex;
 }
