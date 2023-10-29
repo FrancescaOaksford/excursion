@@ -1,4 +1,18 @@
+html{
+	font-size: 16px;
+}
+
 body{
 	background-color: #000;
 	color: #fff;
+	font-family: verdana;
+}
+
+h1{
+	font-size: 3.125rem;
+}
+
+a{
+	color: aquamarine;
+	font-size: 1rem;
 }
