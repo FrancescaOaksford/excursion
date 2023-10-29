@@ -21,3 +21,7 @@ p{
 	font-size: 1.3125px;
 	color: gray;
 }
+
+img{
+	display: block;
+}
