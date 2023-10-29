@@ -18,6 +18,7 @@ h1{
 a{
 	color: aquamarine;
 	font-size: 1rem;
+	display: block;
 }
 
 p{
@@ -27,16 +28,24 @@ p{
 
 img{
 	display: block;
+	text-align: center;
 }
 
 .hidden-places{
-	display: flex;
+	display: block;
+	text-align: center;
 }
 
 .travel-guide{
-	display: flex;
+	display: block;
+	text-align: center;
 }
 
 .coming-soon{
-	display: flex;
+	display: block;
+	text-align: center;
+}
+
+footer{
+	text-align: center;
 }
