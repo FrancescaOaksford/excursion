@@ -6,10 +6,13 @@ body{
 	background-color: #000;
 	color: #fff;
 	font-family: verdana;
+	font-weight: 400;
+	display: flex;
 }
 
 h1{
 	font-size: 3.125rem;
+
 }
 
 a{
@@ -18,7 +21,7 @@ a{
 }
 
 p{
-	font-size: 1.3125px;
+	font-size: 1.3125rem;
 	color: gray;
 }
 
